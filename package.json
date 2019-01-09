@@ -4,7 +4,8 @@
   "description": "A simple database-like server",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node server.js"
   },
   "author": "Andres Faraone-Pirie",
   "license": "ISC",
