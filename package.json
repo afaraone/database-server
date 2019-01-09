@@ -1,0 +1,15 @@
+{
+  "name": "database-server",
+  "version": "1.0.0",
+  "description": "A simple database-like server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Faraone-Pirie",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
